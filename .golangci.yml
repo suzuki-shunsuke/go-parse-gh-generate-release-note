@@ -1,6 +1,9 @@
 version: "2"
 linters:
   default: all
+  settings:
+    goconst:
+      ignore-tests: true
   disable:
     - depguard
     - err113
