@@ -1,31 +1,6 @@
 {
   "checksums": [
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-aarch64-apple-darwin.tar.gz",
-      "checksum": "316D50A32C3726A80AB39C6D12141B70080498973C5E8A9B068B12CDE78B10C1",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz",
-      "checksum": "2AC5E37B3236B3C07DEC5CDF1527ACF143AEC4674A6089B0BF424D021B35E099",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-apple-darwin.tar.gz",
-      "checksum": "F3451079971633A7F769FB958FE06B0D64B5F1DC46DF0854AA1DDB9A6F4031D6",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-pc-windows-msvc.zip",
-      "checksum": "518F759FBA43205F17A717656054C1D25BC883455A6296989E9D021C6EDB7C59",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz",
-      "checksum": "93C301FD4120FF076E2CC2A6D6A61CAB4A4BDB81899287C0938B452E56D1F454",
-      "algorithm": "sha256"
-    },
-    {
       "id": "github_release/github.com/golangci/golangci-lint/v2.15.0/golangci-lint-2.15.0-darwin-amd64.tar.gz",
       "checksum": "767B899A28285E88DED2823D5DCC4BC5EF681173EB2D80F029A7B17EE4ECE3B8",
       "algorithm": "sha256"
@@ -81,36 +56,6 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Darwin_arm64.tar.gz",
-      "checksum": "54497B0F3378936CAA22A3A11D796ACEFE4D5F35D86F5CC84C622F941C3C0C68",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Darwin_x86_64.tar.gz",
-      "checksum": "3002AD37EE7D344DE25E3C630A293AA322FC10D7B9C3FC6D4E836B616D084AE5",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Linux_arm64.tar.gz",
-      "checksum": "56854C078853EA53C73E1E4D627E6A90D6B68185C46EDD46AAD8BEB94564B948",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Linux_x86_64.tar.gz",
-      "checksum": "30413AA3C7443E9C3C157FE5766CAD40E3BB39A32E210EE69B710A8D5C4B8E51",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Windows_arm64.tar.gz",
-      "checksum": "A7161951E19E329620CABF568E50D2431E3BF0531E8E7A2F22C6B77EE4547925",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/reviewdog/reviewdog/v0.21.2/reviewdog_0.21.2_Windows_x86_64.tar.gz",
-      "checksum": "397959E250BFC6BC801FBA34B7D4922F2EAA4763DEACF7D32EF11BFFB284A315",
-      "algorithm": "sha256"
-    },
-    {
       "id": "github_release/github.com/suzuki-shunsuke/cmdx/v2.0.3/cmdx_darwin_amd64.tar.gz",
       "checksum": "F5F05FF5DFA6702EDDE54A9A8B9B42E73E7845DA74CF749305F4884C3253F001",
       "algorithm": "sha256"
@@ -141,36 +86,6 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_darwin_amd64.tar.gz",
-      "checksum": "B5644BC3A78FDDC662FDB16767CD4A6D6E4066AB1714F71BFFF61B911B7837B7",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_darwin_arm64.tar.gz",
-      "checksum": "C3ABC5C3A8EEDAFBEB3D3D2D27A2757876FD5D4937C7306A3932906D578F968A",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_linux_amd64.tar.gz",
-      "checksum": "B8EABA77BAEA50540CAF43E81EA32049CA07FECBA267A84C78A27CE5A86631A3",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_linux_arm64.tar.gz",
-      "checksum": "0123356892FB6E62ED0C7DEBA7B06E57AF29A7447D41E51D0D71F8FCB3ECBBEA",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_windows_amd64.zip",
-      "checksum": "B9BE347BC179DE6A8C7C8D4A57AB4CF32701A73D1459A5A27457DEB60A4D7CFC",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.7/ghalint_1.5.7_windows_arm64.zip",
-      "checksum": "14C37B825BA93EAAFA435C2190EED3FD6B35DF02C7515FEE3568578AC30245B9",
-      "algorithm": "sha256"
-    },
-    {
       "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_darwin_amd64.tar.gz",
       "checksum": "4DEB02933BA8BA7DD7E1744ED8FF4577458B1614410FF131A54A477A44149410",
       "algorithm": "sha256"
@@ -198,36 +113,6 @@
     {
       "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_windows_arm64.zip",
       "checksum": "B9D1B017EDCF1688C94518DAA32E978E1FACE97932D4E555E1743B9D0A79227C",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_darwin_amd64.tar.gz",
-      "checksum": "8FB6A0EE87B59BC2778371527C58A46073D5E289919BBD1C2559EFF7EFEB74E3",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_darwin_arm64.tar.gz",
-      "checksum": "9B9545D53376654005DAAEE5AB736D579887205CA3DF99925C8FE8358C6E7FDB",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_linux_amd64.tar.gz",
-      "checksum": "7F003D8F51E984C2264D2009D430E3E0E87AE404A0E2DC2A9A277B0F731BF5B7",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_linux_arm64.tar.gz",
-      "checksum": "326E27F5B3B5FCA21E6A169B2785BA2023DF3DD9EE82DD0F4E438CB1220B68D7",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_windows_amd64.zip",
-      "checksum": "ABDA382F54A28994E6C7AA220229D5077309DEF0666BFFE0D8D35852BBA54B14",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/pinact/v5.0.2/pinact_windows_arm64.zip",
-      "checksum": "C9935DCDB61BFA0A471B974034E150C29152AE456B545F04A140CBB7CD7FB37D",
       "algorithm": "sha256"
     },
     {
